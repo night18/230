@@ -13,7 +13,13 @@
 			</tr>
 			<tr>
 				<td style="width:80%" valign="top">
+					This is Morgantown University Election system.<br>
+					Students can vote in this system, and there are three type of ballots<br><br><br>
+					1.Single response: The ballot would have some radiobuttons, and you can only vote one of them.<br>
+					2.Multiple response: The ballot would have some check boxex, and you can vote some of them.<br>
+					3.Text response: The ballot would have an input box, and you can write your word in that.	<br>
 					
+
 				</td>
 				<td style="width:20%" valign="top">
 					<form action="redirect.php" method="POST">
